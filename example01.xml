@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog name ="Справочник">
+	<контакт>
+		<id>1</id>
+		<surname>Иванов</surname>
+		<name>Иван</name>
+		<patronymic>Иванович</patronymic>
+		<birthdate>01.01.1990</birthdate>
+		<birthplace>Москва</birthplace>
+		<phone>89267664848</phone>
+	</контакт>
+	<контакт>
+		<id>2</id>
+		<surname>Петров</surname>
+		<name>Максим</name>
+		<patronymic>Евгеньевич</patronymic>
+		<birthdate>01.01.1991</birthdate>
+		<birthplace>Москва</birthplace>
+		<phone>89267664845</phone>
+	</контакт>
+	<контакт>
+		<id>3</id>
+		<surname>Антонов</surname>
+		<name>Иван</name>
+		<patronymic>Сергеевич</patronymic>
+		<birthdate>01.01.1992</birthdate>
+		<birthplace>Москва</birthplace>
+		<phone>89267664840</phone>
+	</контакт>
+</catalog>
