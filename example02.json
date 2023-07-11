@@ -1,0 +1,33 @@
+{
+    "users": {
+      "user": [
+        {
+          "id": "1",
+          "surname": "Иванов",
+          "name": "Иван",
+          "patronymic": "Иванович",
+          "birthdate": "01.01.1990",
+          "birthplace": "Москва",
+          "phone": "8 926 766 48 48"
+        },
+        {
+          "id": "2",
+          "surname": "Петров",
+          "name": "Максим",
+          "patronymic": "Евгеньевич",
+          "birthdate": "01.01.1991",
+          "birthplace": "Москва",
+          "phone": "8 926 766 48 45"
+        },
+        {
+          "id": "3",
+          "surname": "Антонов",
+          "name": "Иван",
+          "patronymic": "Сергеевич",
+          "birthdate": "01.01.1992",
+          "birthplace": "Москва",
+          "phone": "8 926 766 48 40"
+        }
+      ]
+    }
+}
